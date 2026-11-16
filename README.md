@@ -1,0 +1,2 @@
+# sql-journey
+SQL Foundations
